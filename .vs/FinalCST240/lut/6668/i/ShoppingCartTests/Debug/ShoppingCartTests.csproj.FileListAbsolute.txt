@@ -1,0 +1,9 @@
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\ShoppingCartTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\ShoppingCartTests\bin\Debug\ShoppingCartTests.dll
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\ShoppingCartTests\bin\Debug\ShoppingCartTests.pdb
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\ShoppingCartTests\Debug\ShoppingCartTests.csproj.CoreCompileInputs.cache
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\ShoppingCartTests\Debug\ShoppingCartTests.csproj.CopyComplete
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\ShoppingCartTests\Debug\ShoppingCartTests.dll
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\ShoppingCartTests\Debug\ShoppingCartTests.pdb

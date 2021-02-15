@@ -1,0 +1,8 @@
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\FinalCST240\bin\Debug\FinalCST240.exe.config
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\FinalCST240\bin\Debug\FinalCST240.exe
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\b\FinalCST240\bin\Debug\FinalCST240.pdb
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\FinalCST240\Debug\FinalCST240.csprojResolveAssemblyReference.cache
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\FinalCST240\Debug\FinalCST240.csproj.CoreCompileInputs.cache
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\FinalCST240\Debug\FinalCST240.csproj.CopyComplete
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\FinalCST240\Debug\FinalCST240.exe
+c:\users\shant\source\repos\FinalCST240\.vs\FinalCST240\lut\0\i\FinalCST240\Debug\FinalCST240.pdb
